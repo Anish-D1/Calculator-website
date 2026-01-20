@@ -1,2 +1,23 @@
-# Portfolio
-A growing portfolio of projects created while learning and applying full-stack web development concepts. Includes hands-on work with Java, Spring Boot, React, JavaScript, APIs, and databases, highlighting continuous learning and problem-solving.
+# Calculator Website 🧮
+
+A responsive and interactive calculator application developed using **HTML, CSS, and JavaScript**.  
+This project demonstrates core JavaScript concepts such as DOM manipulation, event handling, and logical operations.
+
+## 🔥 Key Highlights
+- Performs all basic arithmetic calculations
+- Clean and minimal UI design
+- Keyboard and button input support
+- Mobile-friendly layout
+
+## 🧰 Tech Stack
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## 🌐 Live Project
+[View Calculator](#)
+
+## 📚 Learning Outcomes
+- JavaScript DOM manipulation
+- Event handling
+- UI/UX design fundamentals
